@@ -4,11 +4,16 @@ project:
 
 website:
   title: "LiChen Dong"
+  favicon: ./images/avatar.jpg
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - cv.qmd
+      - research.qmd
+      - clinical.qmd
+      - teaching.qmd
+      - dei.qmd
 
 format:
   html:

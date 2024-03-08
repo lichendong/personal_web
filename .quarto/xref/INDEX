@@ -4,5 +4,20 @@
   },
   "index.qmd": {
     "index.html": "fe593613"
+  },
+  "clinical.qmd": {
+    "clinical.html": "59efef81"
+  },
+  "cv.qmd": {
+    "cv.html": "25e6a9a2"
+  },
+  "dei.qmd": {
+    "dei.html": "7b7617e9"
+  },
+  "research.qmd": {
+    "research.html": "36a2955d"
+  },
+  "teaching.qmd": {
+    "teaching.html": "fa277c74"
   }
 }
