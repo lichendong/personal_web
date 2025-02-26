@@ -14,6 +14,7 @@ website:
       - research.qmd
       - clinical.qmd
       - teaching.qmd
+      - service.qmd
       - dei.qmd
 
 format:

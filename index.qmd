@@ -8,9 +8,8 @@ about:
     - icon: envelope
       text: Email
       href: mailto:ldong54@wisc.edu
-    - icon: twitter-x
-      text: Twitter
-      href: https://twitter.com/lichen_dong
+    - text: Bluesky
+      href: https://bsky.app/profile/lichendong.bsky.social
     - icon: github
       text: GitHub
       href: https://github.com/lichendong

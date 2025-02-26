@@ -1,5 +1,3 @@
 ---
 title: "Personal Statement"
-toc: false
 ---
-
